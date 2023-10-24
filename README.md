@@ -17,7 +17,8 @@ dirigase a la carpeta raiz del proyecto
 
 ---
 
-    cd AREPPARCIAL02
+    cd AREPParcial02
+
 
 ---
 
