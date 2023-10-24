@@ -1,6 +1,9 @@
 # AREPParcial02
 
 
+Programa diseñado, construido y despliegado en un aplicación web para investigar la conjetura de Collatz. El programa se puede depslegar en una EC2 de AWS a traves de un microcontenedor.
+
+
 ## Instalacion 
 
 clone el repositorio
