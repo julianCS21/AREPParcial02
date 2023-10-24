@@ -56,5 +56,8 @@ ejecute el comando en Linux o Mac
 
 ![image](https://github.com/julianCS21/AREPParcial02/assets/96396177/b9cafe0d-dce0-4835-a20b-b32168839763)
 
+## video prueba
 
+
+https://www.youtube.com/watch?v=ybKG5lV1xnI
 
