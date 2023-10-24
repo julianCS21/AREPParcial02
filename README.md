@@ -40,7 +40,7 @@ ejecute el comando en Windows
 
 ---
 
-  java -cp "target/classes;target/dependency/*" org.example.CollaztService  
+    java -cp "target/classes;target/dependency/*" org.example.CollaztService  
   
 ---
 
