@@ -7,10 +7,8 @@ clone el repositorio
 
 ---
 
-
   git clone https://github.com/julianCS21/AREPParcial02.git
 
-  
 ---
 
 
@@ -19,10 +17,8 @@ dirigase a la carpeta raiz del proyecto
 
 ---
 
-
   cd AREPPARCIAL02
 
-  
 ---
 
 ## Compilar
@@ -32,10 +28,8 @@ ejecute el comando
 
 ---
 
-
   mvn clean install
 
-  
 ---
 
 
@@ -46,9 +40,7 @@ ejecute el comando en Windows
 
 ---
 
-
   java -cp "target/classes;target/dependency/*" org.example.CollaztService  
-
   
 ---
 
@@ -56,10 +48,8 @@ ejecute el comando en Linux o Mac
 
 ---
 
-
   java -cp "target/classes:target/dependency/*" org.example.CollaztService  
 
-  
 ---
 
 
